@@ -13,7 +13,7 @@ void setup(){
 }
 
 //🟢Draw Function - Runs on Repeat
-draw = function( yourName 0  
+draw = function( yourName){
 
 
 
